@@ -1,4 +1,3 @@
-<html xmlns="http://www.w3.org/1999/xhtml">
 <div class="videobox">
         <div class="z-txt"><body><p><img src="http://i1.hdslb.com/topic/201306/8f5e367cc6ff8c81.jpg" usemap="#Map" style="" border="0">
   <map name="Map" id="Map">
@@ -34,4 +33,3 @@
 <br></p>
 </body></div>
 </div>
-</html>
